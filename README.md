@@ -16,7 +16,7 @@ ansible-playbook generate-folder-structure-poc-playbook.yml
 
 ```
 output
-├── Baron Rojo
+├── Barón Rojo
 │   ├── Hijos de Caín.txt
 │   └── Los rockeros van al infierno.txt
 └── Green Day
