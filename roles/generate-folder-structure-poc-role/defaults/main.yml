@@ -1,0 +1,136 @@
+---
+# defaults file for generate-xml-role
+outputPath: output
+
+artists:
+- name: Green Day
+  songs:
+  - title: Oh Love
+    lyrics: |-
+      Oh love, oh love
+      Won't you rain on me tonight?
+      Oh life, oh life
+      Please, don't pass me by
+      Don't stop, don't stop
+      Don't stop when the red lights flash
+      Oh ride, free ride
+      Won't you take me close to you?
+      Far away, far away
+      Waste away tonight
+      I'm wearing my heart on a noose
+      Far away, far away
+      Waste away tonight
+      Tonight my heart's on the loose
+      Oh lights and action
+      I just can't be satisfied
+      Oh losers and choosers
+      Won't you please hold on my life?
+      Oh hours and hours
+      Like the dog years of the day
+      Old story, same old story
+      Won't you see the light of day?
+      Far away, far away
+      Waste away tonight
+      I'm wearing my heart on a noose
+      Far away, far away
+      Waste away tonight
+      Tonight my heart's on the loose
+      Talk myself out of feeling
+      Talk my way out of control
+      Talk myself out of falling in love…     
+  - title: Boulevard of Broken Dreams
+    lyrics: |-
+      I walk a lonely road
+      The only one that I have ever known
+      Don't know where it goes
+      But it's home to me, and I walk alone
+      I walk this empty street
+      On the Boulevard of Broken Dreams
+      Where the city sleeps
+      And I'm the only one, and I walk alone
+      I walk alone, I walk alone
+      I walk alone, I walk a-
+      My shadow's the only one that walks beside me
+      My shallow heart's the only thing that's beating
+      Sometimes I wish someone out there will find me
+      Till then I walk alone
+      Ah-ah, ah-ah, ah-ah, aaah-ah
+      Ah-ah, ah-ah, ah-ah
+      I'm walking down the line
+      That divides me somewhere in my mind
+      On the borderline
+      Of the edge, and where I walk alone
+      Read between the lines
+      What's fucked up, and everything's alright
+      Check my vital signs
+      To know I'm still alive, and I walk alone
+      I walk alone, I walk…     
+- name: Baron Rojo
+  songs:
+  - title: Hijos de Caín
+    lyrics: |-
+      La Biblia cuenta un historia
+      que un Dios terrible dictó
+      el drama de dos hermanos
+      el justo y el traidor
+      Abel mezquino y cobarde
+      el siervo de su señor
+      Caín que no entró en el juego
+      y que se reveló
+      te maldigo truena la voz de su juez
+      padre nuestro que nos privó del Edén
+      Caín rompió con un gesto
+      su yugo de esclavitud
+      huyó del ojo implacable
+      llevo su propia cruz
+      perseguido por quebrantar una ley
+      que no entiende y que no cuenta con el
+      sufrirás morirás esta es su voluntad
+      pero aún hay aquí hijos de Caín.
+      La estirpe del fugitivo
+      creció y se multiplicó
+      el signo que los margina
+      ya nunca se borró.
+      Te maldigo claman los hijos de Abel
+      a la diestra de su señor el poder
+      sufrirás morirás esta es su voluntad
+      pero aún hay aquí hijos de Caín.
+      Quizá los hombres seamos
+      a un tiempo Abel y Caín
+      quizás algún día destruya lo oscuro que hay en mi
+      el destino no está marcado al nacer
+      yo he elegido ser lo que siempre seré
+      Hijo de Caín
+      Hijos de Caín
+      hijos de Caín
+      hijos de Caín....    
+  - title: Los rockeros van al infierno
+    lyrics: |-
+      Se oye comentar a las gentes del lugar.
+      Los rockeros no son buenos.
+      Si no te portas bien
+      te echarás ponto a perder.
+      Y caerás en el infierno.
+      Si has de vivir en el valle de Rock.
+      Te alcanzará la maldición.
+      Nunca tendrás reputación
+      ¿Qué más da?
+      Mi rollo es el Rock
+      Vas sin afeitar, dice el "sheriff" del lugar.
+      Y además con "tías" buenas.
+      dicen que fumar es pecado y es mortal.
+      y al infierno me condenan.
+      Si he de escoger entre ellos y el Rock
+      elegiré mi perdición.
+      Sé que al final tendré razón.
+      Y ellos no.
+      Mi rollo es el Rock.
+      Qué risa me da esa falsa humanidad.
+      de los que se dicen buenos.
+      No perdonarán mi pecado original
+      de ser joven y rockero.
+      Si he de escoger entre ellos y el Rock
+      elegiré mi perdición.
+      Sé que al final tendré razón.
+      Y ellos no.
+      Mi rollo es el Rock.

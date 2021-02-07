@@ -1,0 +1,7 @@
+- name: use motd role playbook
+  hosts: localhost
+  user: ansible
+  become: false
+
+  roles:
+    - role: generate-folder-structure-poc-role

@@ -1,0 +1,29 @@
+---
+- name: clean output directory
+  ansible.builtin.file:
+    path: '{{outputPath}}'
+    state: absent
+
+- name: create an empty folder for each Band
+  ansible.builtin.file:
+    path: '{{outputPath}}/{{artist.name}}'
+    state: directory
+  with_items: '{{artists}}'
+  loop_control:
+    loop_var: artist
+
+- name: generate an empty file for each song from an specific artits
+  ansible.builtin.file:
+    path: '{{outputPath}}/{{item.0.name}}/{{item.1.title}}.txt'
+    state: touch
+  with_subelements:
+  - '{{artists}}'
+  - songs
+
+- name: copy lyrics inside a song title file
+  ansible.builtin.copy:
+    dest: '{{outputPath}}/{{item.0.name}}/{{item.1.title}}.txt'
+    content: '{{item.1.lyrics}}'
+  with_subelements:
+  - '{{artists}}'
+  - songs
